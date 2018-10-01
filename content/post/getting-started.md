@@ -18,6 +18,6 @@ preview = false
 
 Le contenu ici
 
-## Un titre
+## Science des données: Visualisation et interférence
 
 Du texte **avec une partie en gras**...
